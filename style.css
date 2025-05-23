@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    height: 40vh;
+    padding-bottom: 60px;
+    font-size: 80px;
+    color: #E5B52A;
+    font-family: Rusilla serif;
+}
+
+b    {
+    color: #E5B52A;
+    font-size: 15px;
+}
+
+p {
+    color: white;
+}
+
+.partner-logo {
+    padding: 20px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.partner-logo img {
+    max-height: 100%;
+    width: auto;
+    object-fit: contain;
+}
