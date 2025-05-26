@@ -2,6 +2,13 @@ body {
     background-color: black;
 }
 
+@media (min-width: 992px) {
+    .container-fluid {
+        padding-left: 60px !important;
+        padding-right: 60px !important;
+    }
+}
+
 h1 {
     text-align: center;
     height: 40vh;
@@ -13,7 +20,7 @@ h1 {
 
 b    {
     color: #E5B52A;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 p {
